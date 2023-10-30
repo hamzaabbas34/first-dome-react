@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    padding: 10px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f5722a;
+}
+.navitems{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.navitems a{
+    text-decoration: none;
+    color: white;
+}
+
+h1{
+    color: white;
+    font-weight: 600;
+}
